@@ -6,6 +6,6 @@ Si te estás preparando para un examen de certificación de Platzi, te recomiend
 
 |Curso|
 |-----------|
-|[Curso de Inglés Básico A1 para Principiantes]()| 
+|[Curso de Inglés Básico A1 para Principiantes.md]()| 
 
 &nbsp;
