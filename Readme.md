@@ -7,5 +7,5 @@ Si te estás preparando para un examen de certificación de Platzi, te recomiend
 |Curso|
 |-----------|
 |[Curso de Inglés Básico A1 para Principiantes](https://github.com/r3l4x1n/Platzi-English-Academy/blob/main/Nivel%20B%C3%A1sico/Ingl%C3%A9s%20B%C3%A1sico%20A1/Curso%20de%20Ingl%C3%A9s%20B%C3%A1sico%20A1%20para%20Principiantes.md)| 
-
+|[Curso 2]()|
 &nbsp;
