@@ -1,6 +1,6 @@
 # Platzi English Academy
 Este repositorio no pretende dar las respuestas a las preguntas de examenes de certificación de Platzi. El propósito de este, es plasmar lo aprendido con el material y ayudar a otros a desarrollar las habilidades necesarias para aprobar los exámenes de certificación. No pretende, ni es un sustituto de la preparación por tu cuenta. <br>
-Si te estás preparando para un examen de certificación de Platzi, te recomiendo que utilices este repositorio como parte de tu plan de estudio. También te recomiendo que revises el material del curso, practiques con exámenes de práctica y pedir ayuda a un mentor o tutor si lo necesitas.<br>
+Si te estás preparando para un examen de certificación de Platzi, te recomiendo que utilices este repositorio como parte de tu plan de estudio. También te recomiendo que revises el material del curso, practiques con exámenes de práctica y pedir ayuda a un mentor o tutor si lo necesitas.<br><br>
 ![EscuelaInglesPlatzi](https://github.com/r3l4x1n/Platzi-English-Academy/assets/127248381/cb411c9d-a3ea-4723-8fba-9be3b9e325e7)
 
 ## Contenido
