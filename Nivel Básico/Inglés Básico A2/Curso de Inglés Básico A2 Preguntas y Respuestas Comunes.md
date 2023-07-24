@@ -7,9 +7,8 @@ cooking
 loves
                 
 ----
-3. (MALA)
-### Complete the sentence: They _______ camping.
-likes
+3. ### Complete the sentence: They _______ camping.
+like
                 
 ----
 ###  Select the past version of the sentence: "I walk in the park".
@@ -89,11 +88,13 @@ feels
 22. (MALA)
 ###  Select the sentence with the correct adjective order: 
 My backpack is new, yellow and cute.
+My backpack is yellow, cute and new.
                 
 ----
 23. (MALA)
 ###  Select the sentence with the correct adjective order:
 My sneakers are red, made in the USA and comfortable.
+My sneakers are made in the USA, comfortable and red.
                 
 ----
 ###  Complete the sentence: How ____________ is the dress?
