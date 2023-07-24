@@ -7,7 +7,7 @@ cooking
 loves
                 
 ----
-3. ### Complete the sentence: They _______ camping.
+### Complete the sentence: They _______ camping.
 like
                 
 ----
@@ -51,16 +51,14 @@ on
 to the right of
                 
 ----
-14. (MALA)
 ###  Select the correct option: That is my sister and they are my sister_ friends.
-s'
+'s
                 
 ----
 ###  Select the correct option: That is my father and Max is my father_ dog.
 's
                 
 ----
-16. (MALA)
 ###  Select the correct option: They are my friends and that is my friend__ new home.
 's
                 
@@ -85,16 +83,12 @@ look
 feels
                 
 ----
-22. (MALA)
 ###  Select the sentence with the correct adjective order: 
-My backpack is new, yellow and cute.
-My backpack is yellow, cute and new.
+My backpack is cute, new and yellow.
                 
 ----
-23. (MALA)
 ###  Select the sentence with the correct adjective order:
-My sneakers are red, made in the USA and comfortable.
-My sneakers are made in the USA, comfortable and red.
+My sneakers are comfortable, red and made in the USA.
                 
 ----
 ###  Complete the sentence: How ____________ is the dress?
