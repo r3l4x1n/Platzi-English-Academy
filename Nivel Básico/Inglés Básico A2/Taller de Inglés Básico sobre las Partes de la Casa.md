@@ -28,10 +28,8 @@ Yes, I liked playing board games in my childhood house.
 It was a large, and white, countryside house.
                 
 ----
-8. (MALA)
 ###  My bedroom was
-roomy, beige and vintage.
-
+vintage, roomy, and beige.
                 
 ----
 ### What are some of your routines at home?
@@ -87,18 +85,20 @@ It's Jane's car.
 It looks modern, spacious and cream-colored.
                 
 ----
-22. (MALA)
 ### My dream house is
-white, medium-sized and classic.
+classic, medium-sized and white.
                 
 ----
+23. (MALA)
 ### My dream house has
 two bedrooms, two bathrooms, and a large living room.
+He would have wanted to have dinner parties, picnics and potlucks.
                 
 ----
 24. (MALA)
 ### Which things does Carlos want to do in his dream house?
 He wanted to have dinner parties, picnics and potlucks.
+He would have wanted to have dinner parties, picnics and potlucks.
                 
 ----
 ### What do you want to do in your dream house?
