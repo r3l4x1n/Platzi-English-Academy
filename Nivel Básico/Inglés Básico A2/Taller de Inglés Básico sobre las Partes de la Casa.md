@@ -36,12 +36,13 @@ vintage, roomy, and beige.
 I wake up at seven, take a shower, get dressed and then have breakfast at eight a.m.
                 
 ----
-10. (MALA)
+(MALA)
 ###  I finish work at five p.m, after that I come home at about six p.m, and
 at the end I went to sleep at ten p.m.
+at the end I´m going to sleep at ten p.m.
                 
 ----
-### What are you doing right now at home?
+### What are you doing right now at home? 
 I'm doing this exam.
                 
 ----
@@ -89,16 +90,15 @@ It looks modern, spacious and cream-colored.
 classic, medium-sized and white.
                 
 ----
-23. (MALA)
+(MALA)
 ### My dream house has
 two bedrooms, two bathrooms, and a large living room.
 He would have wanted to have dinner parties, picnics and potlucks.
+two bedrooms, two bathrooms and a large living room.
                 
 ----
-24. (MALA)
 ### Which things does Carlos want to do in his dream house?
-He wanted to have dinner parties, picnics and potlucks.
-He would have wanted to have dinner parties, picnics and potlucks.
+He wants to have dinner parties, picnics, and potlucks.
                 
 ----
 ### What do you want to do in your dream house?
